@@ -6,7 +6,6 @@ def firstMissingPositive(nums:[int]) -> int:
                 break
             nums[index],nums[value-1] = nums[value-1],nums[index]
             value = nums[index]
-
     for i, j in enumerate(nums):
         if i+1 != j:
             return i+1
