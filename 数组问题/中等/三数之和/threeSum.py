@@ -1,3 +1,5 @@
+import pysnooper
+@pysnooper.snoop()
 def threeSum(nums:[int]):
     n = len(nums)
     if n < 3:
