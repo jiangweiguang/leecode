@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fee24b1-0c17-4104-afed-04529675f59e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/数组问题/中等/下一个排列/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组问题/中等/下一个排列/nextPermutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数组问题/简单/搜索插入位置/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数组问题/简单/搜索插入位置/searchInsert.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +26,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/数组问题/中等/下一个排列" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/数组问题/简单/搜索插入位置" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -39,11 +39,11 @@
       <recent name="E:\pythonProject\LeetCode\非递减数列" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pythonProject\LeetCode\数组问题\简单\搜索插入位置" />
       <recent name="E:\pythonProject\LeetCode\数组问题\中等\下一个排列" />
       <recent name="E:\pythonProject\LeetCode\数组问题\中等\四数相加 II" />
       <recent name="E:\pythonProject\LeetCode\数组问题\中等\四数之和" />
       <recent name="E:\pythonProject\LeetCode\数组问题\中等\最接近的三数之和" />
-      <recent name="E:\pythonProject\LeetCode\数组问题\中等\三数之和" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -200,7 +200,7 @@
       <workItem from="1577691212589" duration="7027000" />
       <workItem from="1577713524373" duration="191000" />
       <workItem from="1577779516125" duration="10553000" />
-      <workItem from="1577877595804" duration="6463000" />
+      <workItem from="1577877595804" duration="7270000" />
     </task>
     <servers />
   </component>
