@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fee24b1-0c17-4104-afed-04529675f59e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/数组问题/中等/四数之和/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组问题/中等/四数之和/fourSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组问题/中等/四数相加 II/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组问题/中等/四数相加 II/fourSumCount.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数组问题/中等/下一个排列/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数组问题/中等/下一个排列/nextPermutation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数组问题/中等/三数之和/threeSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/数组问题/中等/三数之和/threeSum.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,24 +26,24 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/数组问题/中等/四数相加 II" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/数组问题/中等/下一个排列" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\pythonProject\LeetCode\数组问题\中等\四数相加 II" />
-      <recent name="E:\pythonProject\LeetCode\数组问题\中等\四数之和" />
-      <recent name="E:\pythonProject\LeetCode\数组问题\中等\最接近的三数之和" />
-      <recent name="E:\pythonProject\LeetCode\数组问题\中等\三数之和" />
-      <recent name="E:\pythonProject\LeetCode\数组问题\困难\缺失的第一个正数" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\pythonProject\LeetCode\数组问题\中等" />
       <recent name="E:\pythonProject\LeetCode\数组问题\困难" />
       <recent name="E:\pythonProject\LeetCode\数组问题\简单" />
       <recent name="E:\pythonProject\LeetCode\数组问题" />
       <recent name="E:\pythonProject\LeetCode\非递减数列" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pythonProject\LeetCode\数组问题\中等\下一个排列" />
+      <recent name="E:\pythonProject\LeetCode\数组问题\中等\四数相加 II" />
+      <recent name="E:\pythonProject\LeetCode\数组问题\中等\四数之和" />
+      <recent name="E:\pythonProject\LeetCode\数组问题\中等\最接近的三数之和" />
+      <recent name="E:\pythonProject\LeetCode\数组问题\中等\三数之和" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -64,29 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fourSumCount">
-    <configuration name="firstMissingPositive" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数组问题/困难/缺失的第一个正数" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数组问题/困难/缺失的第一个正数/firstMissingPositive.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.nextPermutation">
     <configuration name="fourSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,6 +95,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数组问题/中等/四数相加 II/fourSumCount.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nextPermutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数组问题/中等/下一个排列" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数组问题/中等/下一个排列/nextPermutation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.nextPermutation" />
         <item itemvalue="Python.fourSumCount" />
         <item itemvalue="Python.fourSum" />
         <item itemvalue="Python.threeSum" />
         <item itemvalue="Python.threeSumClosest" />
-        <item itemvalue="Python.firstMissingPositive" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +199,8 @@
       <workItem from="1577588380513" duration="7224000" />
       <workItem from="1577691212589" duration="7027000" />
       <workItem from="1577713524373" duration="191000" />
-      <workItem from="1577779516125" duration="10168000" />
+      <workItem from="1577779516125" duration="10553000" />
+      <workItem from="1577877595804" duration="6463000" />
     </task>
     <servers />
   </component>
@@ -273,6 +268,11 @@
           <line>20</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/数组问题/中等/下一个排列/nextPermutation.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -291,6 +291,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$threeSum.coverage" NAME="threeSum Coverage Results" MODIFIED="1577713701279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组问题/中等/三数之和" />
     <SUITE FILE_PATH="coverage/LeetCode$fourSum.coverage" NAME="fourSum Coverage Results" MODIFIED="1577782237322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组问题/中等/四数之和" />
     <SUITE FILE_PATH="coverage/LeetCode$canPlaceFlowers.coverage" NAME="canPlaceFlowers Coverage Results" MODIFIED="1577246519667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/种花问题" />
+    <SUITE FILE_PATH="coverage/LeetCode$nextPermutation.coverage" NAME="nextPermutation Coverage Results" MODIFIED="1577883752541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组问题/中等/下一个排列" />
     <SUITE FILE_PATH="coverage/LeetCode$maxArea.coverage" NAME="maxArea Coverage Results" MODIFIED="1577590864168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组问题/困难/盛最多水的容器" />
     <SUITE FILE_PATH="coverage/LeetCode$removeDuplicates.coverage" NAME="removeDuplicates Coverage Results" MODIFIED="1577177510818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/删除排序数组中的重复项" />
     <SUITE FILE_PATH="coverage/LeetCode$checkPossibility.coverage" NAME="checkPossibility Coverage Results" MODIFIED="1577244916292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/非递减数列" />
