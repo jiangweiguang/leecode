@@ -1,23 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2fee24b1-0c17-4104-afed-04529675f59e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/回溯算法/中等/restoreIpAddresses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/回溯算法/中等/单词搜索/exist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/回溯算法/中等/单词搜索/问题.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/回溯算法/中等/复原IP地址/问题.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/回溯算法/中等/子集/subsets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/回溯算法/中等/子集/问题.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/回溯算法/中等/子集II/subsetsWithDup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/回溯算法/中等/子集II/问题.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/回溯算法/中等/格雷编码/grayCode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/回溯算法/中等/格雷编码/问题.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/回溯算法/中等/组合/combine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/回溯算法/中等/组合/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/回溯算法/中等/组合/问题.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/相关知识/最长子序列匹配问题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/简单/14. 最长公共前缀/longestCommonPrefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/简单/415. 字符串相加/415. 字符串相加.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/简单/434. 字符串中的单词数/434. 字符串中的单词数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/简单/521. 最长特殊序列 Ⅰ/findLUSlength.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/简单/541. 反转字符串 II/541. 反转字符串 II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/简单/541. 反转字符串 II/题目.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/简单/58. 最后一个单词的长度/58. 最后一个单词的长度.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/简单/686. 重复叠加字符串匹配/686. 重复叠加字符串匹配.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/简单/709. 转换成小写字母/709. 转换成小写字母.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/简单/917. 仅仅反转字母/917. 仅仅反转字母.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/简单/亲密字符串/859. 亲密字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/简单/反转字符串中的单词 III/反转字符串中的单词 III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/简单/反转字符串中的单词 III/题目.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,8 +58,14 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/回溯算法/中等" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -52,6 +78,13 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\64255\PycharmProjects\leecode\字符串\简单\541. 反转字符串 II" />
+      <recent name="C:\Users\64255\PycharmProjects\leecode\字符串\简单\反转字符串中的单词 III" />
+      <recent name="E:\pythonProject\LeetCode\回溯算法\中等" />
+      <recent name="E:\pythonProject\LeetCode\数组问题\中等" />
+      <recent name="E:\pythonProject\LeetCode\数组问题\困难" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\pythonProject\LeetCode\回溯算法\中等" />
       <recent name="E:\pythonProject\LeetCode\二分查找\简单\供暖器" />
@@ -59,28 +92,9 @@
       <recent name="E:\pythonProject\LeetCode\数组问题\中等\搜索旋转排序数组" />
       <recent name="E:\pythonProject\LeetCode\数组问题\简单\搜索插入位置" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\pythonProject\LeetCode\回溯算法\中等" />
-      <recent name="E:\pythonProject\LeetCode\数组问题\中等" />
-      <recent name="E:\pythonProject\LeetCode\数组问题\困难" />
-      <recent name="E:\pythonProject\LeetCode\数组问题\简单" />
-      <recent name="E:\pythonProject\LeetCode\数组问题" />
-    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.restoreIpAddresses">
-    <configuration name="exist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.longestCommonPrefix">
+    <configuration name="434. 字符串中的单词数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,12 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/回溯算法/中等/单词搜索" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/字符串/简单/434. 字符串中的单词数" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/回溯算法/中等/单词搜索/exist.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串/简单/434. 字符串中的单词数/434. 字符串中的单词数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="grayCode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="686. 重复叠加字符串匹配" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,12 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/回溯算法/中等/格雷编码" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/字符串/简单/686. 重复叠加字符串匹配" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/回溯算法/中等/格雷编码/grayCode.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串/简单/686. 重复叠加字符串匹配/686. 重复叠加字符串匹配.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="restoreIpAddresses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="859. 亲密字符串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,12 +144,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/回溯算法/中等" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/字符串/简单/亲密字符串" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/回溯算法/中等/restoreIpAddresses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串/简单/亲密字符串/859. 亲密字符串.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="917. 仅仅反转字母" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/字符串/简单/917. 仅仅反转字母" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串/简单/917. 仅仅反转字母/917. 仅仅反转字母.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="longestCommonPrefix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/字符串/简单/14. 最长公共前缀" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串/简单/14. 最长公共前缀/longestCommonPrefix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,57 +221,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="subsets" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/回溯算法/中等/子集" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/回溯算法/中等/子集/subsets.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="subsetsWithDup" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/回溯算法/中等/子集II" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/回溯算法/中等/子集II/subsetsWithDup.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.restoreIpAddresses" />
-        <item itemvalue="Python.subsetsWithDup" />
-        <item itemvalue="Python.grayCode" />
-        <item itemvalue="Python.exist" />
-        <item itemvalue="Python.subsets" />
+        <item itemvalue="Python.longestCommonPrefix" />
+        <item itemvalue="Python.434. 字符串中的单词数" />
+        <item itemvalue="Python.686. 重复叠加字符串匹配" />
+        <item itemvalue="Python.859. 亲密字符串" />
+        <item itemvalue="Python.917. 仅仅反转字母" />
       </list>
     </recent_temporary>
   </component>
@@ -267,16 +276,74 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2816" y="110" key="Github.ShareDialog" timestamp="1593563374346">
+      <screen x="1920" y="-343" width="2048" height="1120" />
+    </state>
+    <state x="2816" y="110" key="Github.ShareDialog/1920.-343.2048.1120/0.0.1920.1040@1920.-343.2048.1120" timestamp="1593563374346" />
+    <state width="2027" height="297" key="GridCell.Tab.0.bottom" timestamp="1593528034712">
+      <screen x="1920" y="-343" width="2048" height="1120" />
+    </state>
+    <state width="1899" height="327" key="GridCell.Tab.0.bottom/1920.-343.2048.1120/0.0.1920.1040@0.0.1920.1040" timestamp="1593508958256" />
+    <state width="2027" height="297" key="GridCell.Tab.0.bottom/1920.-343.2048.1120/0.0.1920.1040@1920.-343.2048.1120" timestamp="1593528034712" />
+    <state width="2027" height="297" key="GridCell.Tab.0.center" timestamp="1593528034711">
+      <screen x="1920" y="-343" width="2048" height="1120" />
+    </state>
+    <state width="1899" height="327" key="GridCell.Tab.0.center/1920.-343.2048.1120/0.0.1920.1040@0.0.1920.1040" timestamp="1593508958256" />
+    <state width="2027" height="297" key="GridCell.Tab.0.center/1920.-343.2048.1120/0.0.1920.1040@1920.-343.2048.1120" timestamp="1593528034711" />
+    <state width="2027" height="297" key="GridCell.Tab.0.left" timestamp="1593528034711">
+      <screen x="1920" y="-343" width="2048" height="1120" />
+    </state>
+    <state width="1899" height="327" key="GridCell.Tab.0.left/1920.-343.2048.1120/0.0.1920.1040@0.0.1920.1040" timestamp="1593508958256" />
+    <state width="2027" height="297" key="GridCell.Tab.0.left/1920.-343.2048.1120/0.0.1920.1040@1920.-343.2048.1120" timestamp="1593528034711" />
+    <state width="2027" height="297" key="GridCell.Tab.0.right" timestamp="1593528034712">
+      <screen x="1920" y="-343" width="2048" height="1120" />
+    </state>
+    <state width="1899" height="327" key="GridCell.Tab.0.right/1920.-343.2048.1120/0.0.1920.1040@0.0.1920.1040" timestamp="1593508958256" />
+    <state width="2027" height="297" key="GridCell.Tab.0.right/1920.-343.2048.1120/0.0.1920.1040@1920.-343.2048.1120" timestamp="1593528034712" />
+    <state width="2027" height="354" key="GridCell.Tab.1.bottom" timestamp="1593527908793">
+      <screen x="1920" y="-343" width="2048" height="1120" />
+    </state>
+    <state width="1899" height="327" key="GridCell.Tab.1.bottom/1920.-343.2048.1120/0.0.1920.1040@0.0.1920.1040" timestamp="1593508958256" />
+    <state width="2027" height="354" key="GridCell.Tab.1.bottom/1920.-343.2048.1120/0.0.1920.1040@1920.-343.2048.1120" timestamp="1593527908793" />
+    <state width="2027" height="354" key="GridCell.Tab.1.center" timestamp="1593527908793">
+      <screen x="1920" y="-343" width="2048" height="1120" />
+    </state>
+    <state width="1899" height="327" key="GridCell.Tab.1.center/1920.-343.2048.1120/0.0.1920.1040@0.0.1920.1040" timestamp="1593508958256" />
+    <state width="2027" height="354" key="GridCell.Tab.1.center/1920.-343.2048.1120/0.0.1920.1040@1920.-343.2048.1120" timestamp="1593527908793" />
+    <state width="2027" height="354" key="GridCell.Tab.1.left" timestamp="1593527908793">
+      <screen x="1920" y="-343" width="2048" height="1120" />
+    </state>
+    <state width="1899" height="327" key="GridCell.Tab.1.left/1920.-343.2048.1120/0.0.1920.1040@0.0.1920.1040" timestamp="1593508958256" />
+    <state width="2027" height="354" key="GridCell.Tab.1.left/1920.-343.2048.1120/0.0.1920.1040@1920.-343.2048.1120" timestamp="1593527908793" />
+    <state width="2027" height="354" key="GridCell.Tab.1.right" timestamp="1593527908793">
+      <screen x="1920" y="-343" width="2048" height="1120" />
+    </state>
+    <state width="1899" height="327" key="GridCell.Tab.1.right/1920.-343.2048.1120/0.0.1920.1040@0.0.1920.1040" timestamp="1593508958256" />
+    <state width="2027" height="354" key="GridCell.Tab.1.right/1920.-343.2048.1120/0.0.1920.1040@1920.-343.2048.1120" timestamp="1593527908793" />
+    <state x="723" y="280" key="SettingsEditor" timestamp="1593483950282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="280" key="SettingsEditor/1920.-343.2048.1120/0.0.1920.1040@0.0.1920.1040" timestamp="1593483950282" />
+    <state x="2691" y="-41" key="SettingsEditor/1920.-343.2048.1120/0.0.1920.1040@1920.-343.2048.1120" timestamp="1593417049266" />
+    <state x="2537" y="-54" key="Vcs.Push.Dialog.v2" timestamp="1593563459032">
+      <screen x="1920" y="-343" width="2048" height="1120" />
+    </state>
+    <state x="2537" y="-54" key="Vcs.Push.Dialog.v2/1920.-343.2048.1120/0.0.1920.1040@1920.-343.2048.1120" timestamp="1593563459032" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1593484144717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/1920.-343.2048.1120/0.0.1920.1040@0.0.1920.1040" timestamp="1593484144717" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -426,6 +493,41 @@
           <line>13</line>
           <option name="timeStamp" value="111" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/字符串/简单/反转字符串中的单词 III/反转字符串中的单词 III.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/字符串/简单/58. 最后一个单词的长度/58. 最后一个单词的长度.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/字符串/简单/415. 字符串相加/415. 字符串相加.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/字符串/简单/917. 仅仅反转字母/917. 仅仅反转字母.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/字符串/简单/亲密字符串/859. 亲密字符串.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/字符串/简单/686. 重复叠加字符串匹配/686. 重复叠加字符串匹配.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/字符串/简单/14. 最长公共前缀/longestCommonPrefix.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -435,50 +537,10 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LeetCode$combine.coverage" NAME="combine Coverage Results" MODIFIED="1578884507430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/回溯算法/中等/组合" />
-    <SUITE FILE_PATH="coverage/LeetCode$The_sum_of_two_Numbers__1_.coverage" NAME="The_sum_of_two_Numbers (1) Coverage Results" MODIFIED="1577093228766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The_sum_of_two_numbers" />
-    <SUITE FILE_PATH="coverage/LeetCode$robotSim__1_.coverage" NAME="robotSim (1) Coverage Results" MODIFIED="1578399114279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贪心算法/简单/模拟行走机器人" />
-    <SUITE FILE_PATH="coverage/LeetCode$subsetsWithDup.coverage" NAME="subsetsWithDup Coverage Results" MODIFIED="1578911842820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/回溯算法/中等/子集II" />
-    <SUITE FILE_PATH="coverage/LeetCode$search.coverage" NAME="search Coverage Results" MODIFIED="1578054103197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组问题/中等/搜索旋转排序数组" />
-    <SUITE FILE_PATH="coverage/LeetCode$uncommonFromSentences.coverage" NAME="uncommonFromSentences Coverage Results" MODIFIED="1578405322591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/哈希表/简单/两句话中的不常见单词" />
-    <SUITE FILE_PATH="coverage/LeetCode$countPrimes.coverage" NAME="countPrimes Coverage Results" MODIFIED="1578457762054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数学/简单/计数质数" />
-    <SUITE FILE_PATH="coverage/LeetCode$maxArea.coverage" NAME="maxArea Coverage Results" MODIFIED="1577590864168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组问题/困难/盛最多水的容器" />
-    <SUITE FILE_PATH="coverage/LeetCode$removeDuplicates.coverage" NAME="removeDuplicates Coverage Results" MODIFIED="1577177510818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/删除排序数组中的重复项" />
-    <SUITE FILE_PATH="coverage/LeetCode$robotSim.coverage" NAME="robotSim Coverage Results" MODIFIED="1578398284598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贪心算法/简单/模拟行走机器人" />
-    <SUITE FILE_PATH="coverage/LeetCode$firstMissingPositive.coverage" NAME="firstMissingPositive Coverage Results" MODIFIED="1577601381400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组问题/困难/缺失的第一个正数" />
-    <SUITE FILE_PATH="coverage/LeetCode$grayCode.coverage" NAME="grayCode Coverage Results" MODIFIED="1578910819811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/回溯算法/中等/格雷编码" />
-    <SUITE FILE_PATH="coverage/LeetCode$searchRange.coverage" NAME="searchRange Coverage Results" MODIFIED="1578057598176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组问题/中等/在排序数组中查找元素的第一个和最后一个位置" />
-    <SUITE FILE_PATH="coverage/LeetCode$removeElement.coverage" NAME="removeElement Coverage Results" MODIFIED="1577178338956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/移除元素" />
-    <SUITE FILE_PATH="coverage/LeetCode$relativeSortArray.coverage" NAME="relativeSortArray Coverage Results" MODIFIED="1577101614941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组的相对排序" />
-    <SUITE FILE_PATH="coverage/LeetCode$buddyStrings.coverage" NAME="buddyStrings Coverage Results" MODIFIED="1578380929921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字符串/简单/亲密字符串" />
-    <SUITE FILE_PATH="coverage/LeetCode$findRadius.coverage" NAME="findRadius Coverage Results" MODIFIED="1578384262207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/二分查找/简单/供暖器" />
-    <SUITE FILE_PATH="coverage/LeetCode$permuteUnique_2.coverage" NAME="permuteUnique_2 Coverage Results" MODIFIED="1578535176975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/回溯算法/中等/全排列 II" />
-    <SUITE FILE_PATH="coverage/LeetCode$fourSumCount.coverage" NAME="fourSumCount Coverage Results" MODIFIED="1577796465322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组问题/中等/四数相加 II" />
-    <SUITE FILE_PATH="coverage/LeetCode$middleNode.coverage" NAME="middleNode Coverage Results" MODIFIED="1578401304777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/链表/简单/链表的中间结点" />
-    <SUITE FILE_PATH="coverage/LeetCode$The_sum_of_two_Numbers.coverage" NAME="The_sum_of_two_Numbers Coverage Results" MODIFIED="1577088380741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$permuteUnique.coverage" NAME="permuteUnique Coverage Results" MODIFIED="1578534222570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/回溯算法/中等/全排列 II" />
-    <SUITE FILE_PATH="coverage/LeetCode$threeSum.coverage" NAME="threeSum Coverage Results" MODIFIED="1577713701279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组问题/中等/三数之和" />
-    <SUITE FILE_PATH="coverage/LeetCode$getPermutation.coverage" NAME="getPermutation Coverage Results" MODIFIED="1578542803698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/回溯算法/中等/第k个排列" />
-    <SUITE FILE_PATH="coverage/LeetCode$letterCombinations.coverage" NAME="letterCombinations Coverage Results" MODIFIED="1578476630113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/回溯算法/中等/电话号码的字母组合" />
-    <SUITE FILE_PATH="coverage/LeetCode$fourSum.coverage" NAME="fourSum Coverage Results" MODIFIED="1577782237322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组问题/中等/四数之和" />
-    <SUITE FILE_PATH="coverage/LeetCode$subsets.coverage" NAME="subsets Coverage Results" MODIFIED="1578887099482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/回溯算法/中等/子集" />
-    <SUITE FILE_PATH="coverage/LeetCode$canPlaceFlowers.coverage" NAME="canPlaceFlowers Coverage Results" MODIFIED="1577246519667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/种花问题" />
-    <SUITE FILE_PATH="coverage/LeetCode$nextPermutation.coverage" NAME="nextPermutation Coverage Results" MODIFIED="1577883752541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组问题/中等/下一个排列" />
-    <SUITE FILE_PATH="coverage/LeetCode$combinationSum.coverage" NAME="combinationSum Coverage Results" MODIFIED="1578465044248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/回溯算法/中等/组合总和" />
-    <SUITE FILE_PATH="coverage/LeetCode$permute.coverage" NAME="permute Coverage Results" MODIFIED="1578533295851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/回溯算法/中等/全排列" />
-    <SUITE FILE_PATH="coverage/LeetCode$test.coverage" NAME="test Coverage Results" MODIFIED="1578540258141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/回溯算法/中等/第k个排列" />
-    <SUITE FILE_PATH="coverage/LeetCode$checkPossibility.coverage" NAME="checkPossibility Coverage Results" MODIFIED="1577244916292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/非递减数列" />
-    <SUITE FILE_PATH="coverage/LeetCode$findMedianSortedArrays.coverage" NAME="findMedianSortedArrays Coverage Results" MODIFIED="1577539154787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/寻找两个有序数组的中位数" />
-    <SUITE FILE_PATH="coverage/LeetCode$projectionArea.coverage" NAME="projectionArea Coverage Results" MODIFIED="1578403326018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数学/简单/三维形体投影面积" />
-    <SUITE FILE_PATH="coverage/LeetCode$combinationSum__1_.coverage" NAME="combinationSum (1) Coverage Results" MODIFIED="1578468661811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/回溯算法/中等/组合总和II" />
-    <SUITE FILE_PATH="coverage/LeetCode$restoreIpAddresses.coverage" NAME="restoreIpAddresses Coverage Results" MODIFIED="1578922856778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/回溯算法/中等" />
-    <SUITE FILE_PATH="coverage/LeetCode$threeSumClosest.coverage" NAME="threeSumClosest Coverage Results" MODIFIED="1577695775106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组问题/中等/最接近的三数之和" />
-    <SUITE FILE_PATH="coverage/LeetCode$findComplement.coverage" NAME="findComplement Coverage Results" MODIFIED="1578389262377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/位运算/简单/数字的补数" />
-    <SUITE FILE_PATH="coverage/LeetCode$findNumbers.coverage" NAME="findNumbers Coverage Results" MODIFIED="1577097597143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/统计位数为偶数的数字" />
-    <SUITE FILE_PATH="coverage/LeetCode$hasGroupsSizeX.coverage" NAME="hasGroupsSizeX Coverage Results" MODIFIED="1577260431037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/卡牌分组" />
-    <SUITE FILE_PATH="coverage/LeetCode$generateParenthesis.coverage" NAME="generateParenthesis Coverage Results" MODIFIED="1578475056140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/回溯算法/中等/括号生成" />
-    <SUITE FILE_PATH="coverage/LeetCode$exist.coverage" NAME="exist Coverage Results" MODIFIED="1578897431894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/回溯算法/中等/单词搜索" />
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="shift2" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
