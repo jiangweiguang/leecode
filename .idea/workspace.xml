@@ -16,26 +16,16 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fee24b1-0c17-4104-afed-04529675f59e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/字符串/相关知识/最长子序列匹配问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/简单/14. 最长公共前缀/longestCommonPrefix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/简单/415. 字符串相加/415. 字符串相加.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/简单/434. 字符串中的单词数/434. 字符串中的单词数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/简单/521. 最长特殊序列 Ⅰ/findLUSlength.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/简单/541. 反转字符串 II/541. 反转字符串 II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/简单/541. 反转字符串 II/题目.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/简单/58. 最后一个单词的长度/58. 最后一个单词的长度.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/简单/686. 重复叠加字符串匹配/686. 重复叠加字符串匹配.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/简单/709. 转换成小写字母/709. 转换成小写字母.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/简单/917. 仅仅反转字母/917. 仅仅反转字母.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/简单/亲密字符串/859. 亲密字符串.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/简单/反转字符串中的单词 III/反转字符串中的单词 III.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/简单/反转字符串中的单词 III/题目.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2fee24b1-0c17-4104-afed-04529675f59e" name="Default Changelist" comment="提交了部分字符串题目">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -266,6 +256,14 @@
       <workItem from="1578623419293" duration="647000" />
       <workItem from="1578881552929" duration="26666000" />
     </task>
+    <task id="LOCAL-00001" summary="提交了部分字符串题目">
+      <created>1593563656611</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593563656611</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,7 +274,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -285,6 +295,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="提交了部分字符串题目" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交了部分字符串题目" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2816" y="110" key="Github.ShareDialog" timestamp="1593563374346">
@@ -336,10 +348,10 @@
     </state>
     <state x="723" y="280" key="SettingsEditor/1920.-343.2048.1120/0.0.1920.1040@0.0.1920.1040" timestamp="1593483950282" />
     <state x="2691" y="-41" key="SettingsEditor/1920.-343.2048.1120/0.0.1920.1040@1920.-343.2048.1120" timestamp="1593417049266" />
-    <state x="2537" y="-54" key="Vcs.Push.Dialog.v2" timestamp="1593563459032">
+    <state x="2537" y="-54" key="Vcs.Push.Dialog.v2" timestamp="1593563961894">
       <screen x="1920" y="-343" width="2048" height="1120" />
     </state>
-    <state x="2537" y="-54" key="Vcs.Push.Dialog.v2/1920.-343.2048.1120/0.0.1920.1040@1920.-343.2048.1120" timestamp="1593563459032" />
+    <state x="2537" y="-54" key="Vcs.Push.Dialog.v2/1920.-343.2048.1120/0.0.1920.1040@1920.-343.2048.1120" timestamp="1593563961894" />
     <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1593484144717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
